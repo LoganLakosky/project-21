@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  margin-top: 20px;
+ 
+}
+
+.header-left {
+  
+ 
+  
+}
+
+.header-left a {
+  text-decoration: none;
+  color: black;
+  
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  
+}
+
+.container .header-left {
+ 
+ 
+}
+
+.search-bar {
+  display: flex;
+  max-width: 450px;
+  
+}
+
+.form {
+  width: auto;
+}
+
+
+.input {
+  width: 100%;
+}
